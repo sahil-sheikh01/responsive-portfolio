@@ -90,10 +90,13 @@ nav ul li a:hover{
 .right-side button:hover{
     background-color: #ff4321;
 }
+.social-links{
+    display: flex;
+    gap: 20px:
+}
 .social-links a{
     font-size: 25px;
     color: var(--secondary-color);
-    margin-right: 20px;
 }
 .social-links a:hover{
     color: #ff4321;
