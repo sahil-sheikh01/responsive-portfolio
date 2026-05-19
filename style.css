@@ -115,9 +115,6 @@ nav ul li a:hover{
         height: auto;
         flex-direction: column;
     }
-    .left-side{
-        align-items: flex-start;
-    }
     .left-side img{
         width: 250px;
     }
