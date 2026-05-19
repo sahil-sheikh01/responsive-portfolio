@@ -42,6 +42,7 @@ nav ul li a:hover{
     visibility: hidden;
     font-size: 20px;
     cursor: pointer;
+    color: var(--secondary-color);
 }
 .hero-section{
    height: 80%;
@@ -107,6 +108,7 @@ nav ul li a:hover{
     #menu{
         visibility: visible;
         margin-left: 20px;
+        color: #
     }
     #icon{
         margin-right: 20px;
