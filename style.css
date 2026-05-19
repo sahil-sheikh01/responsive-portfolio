@@ -99,7 +99,7 @@ nav ul li a:hover{
 }
 @media(max-width: 768px){
     nav{
-        height: 10vh;
+        height: 10%;
     }
     nav ul{
         visibility: hidden;
@@ -112,7 +112,7 @@ nav ul li a:hover{
         margin-right: 20px;
     }
     .hero-section{
-        height: 90vh;
+        height: auto;
         flex-direction: column;
     }
     .left-side{
@@ -124,7 +124,6 @@ nav ul li a:hover{
     .right-side{
         text-align: center;
         align-items: center;
-        justify-content: flex-start;
     }
     .right-side h1{
         font-size: 40px;
