@@ -92,7 +92,7 @@ nav ul li a:hover{
 }
 .social-links{
     display: flex;
-    gap: 20px:
+    gap: 20px;
 }
 .social-links a{
     font-size: 25px;
