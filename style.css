@@ -124,6 +124,7 @@ nav ul li a:hover{
     .right-side{
         text-align: center;
         align-items: center;
+        justify-content: flex-start;
     }
     .right-side h1{
         font-size: 40px;
